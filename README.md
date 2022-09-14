@@ -4,4 +4,4 @@ Fitur - Fitur :
 1. Menambah data buku.
 2. Dapat memindahkan atau mengedit data buku.
 3. Ada fitur pencarian.
-4. Menghapus data buku. #Book-Shel-Apps-Dicoding
+4. Menghapus data buku. #Book-Shelf-Apps-Dicoding
